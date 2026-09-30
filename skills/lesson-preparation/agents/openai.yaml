@@ -1,0 +1,4 @@
+interface:
+  display_name: "单课备课"
+  short_description: "根据单课主题、目标与内容制作完整PPT、分段讲解、案例练习和课后讲义"
+  default_prompt: "使用 $lesson-preparation 根据本课主题、学习目标和具体内容，制作五部分分段互动课堂的完整PPT、讲解、练习解析及课后讲义，并检查内容边界与时间负荷。"

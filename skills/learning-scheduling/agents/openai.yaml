@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习排课"
+  short_description: "结合先修、实际课时与学习进度安排每日课程，并更新已有课程表"
+  default_prompt: "使用 $learning-scheduling 读取我的课程规划和最新学习进度，按我的可用时间和先修关系安排近期课程，并登记到已授权的课程表。"

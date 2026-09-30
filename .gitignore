@@ -1,0 +1,12 @@
+# Personal learning context and generated teaching materials stay local.
+*.local.md
+.env
+.env.*
+!.env.example
+learning-data/
+classrooms/
+outputs/
+work/
+__pycache__/
+.DS_Store
+Thumbs.db
