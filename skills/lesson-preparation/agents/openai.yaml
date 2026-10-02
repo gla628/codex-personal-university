@@ -1,4 +1,4 @@
 interface:
   display_name: "单课备课"
-  short_description: "根据单课主题、目标与内容制作完整PPT、分段讲解、案例练习和课后讲义"
-  default_prompt: "使用 $lesson-preparation 根据本课主题、学习目标和具体内容，制作五部分分段互动课堂的完整PPT、讲解、练习解析及课后讲义，并检查内容边界与时间负荷。"
+  short_description: "按课程要求的深度展开讲解与材料，反馈过薄规划，检查后登记备课储备"
+  default_prompt: "使用 $lesson-preparation 按指定课次的覆盖与深度充分展开讲解、PPT和练习讲义，指出规划缺口，检查达标后登记备课储备，暂不新增课表安排。"

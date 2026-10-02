@@ -1,4 +1,4 @@
 interface:
   display_name: "课程课时规划"
-  short_description: "按真实学习内容规划每课时主题、讲解边界、逻辑衔接与合理时长"
-  default_prompt: "使用 $course-session-planning 为这门课程制定逐课时规划，说明每课时主题、讲到哪里、前后衔接和时间依据，不展开教案。"
+  short_description: "先核对整门课程的知识覆盖与深度，再推导每课主题、衔接及合理时长"
+  default_prompt: "使用 $course-session-planning 依据适合的成熟课程与教材核对整门课的覆盖、深度和取舍，再据此制定逐课时规划，不展开教案。"

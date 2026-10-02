@@ -1,4 +1,4 @@
 interface:
   display_name: "互动授课"
-  short_description: "读取备课材料，在对话中分段教学、展示课件、反馈练习并保存续学进度"
-  default_prompt: "使用 $interactive-teaching 根据这节课已有的备课材料和学习进度开始或继续授课，按段展示PPT、讲解和互动，并根据我的回答调整教学。"
+  short_description: "保留课程要求的解释与推理深度，分段互动授课并记录学习证据及内容缺口"
+  default_prompt: "使用 $interactive-teaching 根据备课材料与进度开始或继续授课，保留要求的解释和推理深度，依据我的回答调整教学，记录学习证据与材料缺口。"

@@ -38,6 +38,16 @@ flowchart TD
 
 Course recommendations come from the planning conversation using the background you provide; there is no separate sixth skill. Individual skills can be invoked separately, but installing all five makes the full workflow easier to use.
 
+## Course coverage and depth
+
+Personalization changes the starting point, sequence, examples, and pace; it does not automatically lower core knowledge requirements. For systematic study, use established undergraduate courses and textbooks at an appropriate level as references. Where those are not suitable, use a reliable professional framework. Respect an explicitly requested overview or short course.
+
+- Course planning maps essential content, required depth, and justified tradeoffs before deriving sessions. Explain omissions, reduced depth, and deferred topics; verify where other courses actually cover deferred material.
+- Lesson preparation checks whether the necessary explanations, reasoning, relationships, and methods are developed. Recommend merging a thin lesson or turning it into reading, rather than padding slides or repeating exercises.
+- Teaching preserves the planned depth. Segment count is not a cap on concepts, and a correct answer to a simple question does not establish deeper understanding. Record material gaps separately from actual learning progress.
+
+Lesson counts, concept counts, and elapsed minutes do not establish quality. Theoretical understanding and analysis are valid outcomes; projects are not mandatory for every subject. These are rules in the skills, not evidence that existing courses are equivalent to university courses or that learning effectiveness has been demonstrated.
+
 ## Requirements
 
 - A Codex environment that can read skills. These files provide instructions, not a model, account, or additional permissions.
